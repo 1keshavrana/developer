@@ -1,0 +1,35 @@
+video{
+    border-radius: 16px;
+    max-width: 100%;;
+    height: auto;
+}
+p{
+    text-align: center;
+    background-color: rgb(232, 12, 221);
+    border-color: black;
+    border: 10px;
+    border-radius: 16px;
+    margin: 10px;
+    padding: auto;
+    position: relative;
+    line-height: normal;
+    font-size: large;
+    font: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(8, 238, 111);
+    
+}
+img{
+    border-radius: 16px;
+    max-width: 100%;
+    height: auto;
+}
+body{
+    background-color: antiquewhite;
+    border-radius: 16px;
+    flex: auto;
+}
+#ancor{
+    text-align: center;
+}
